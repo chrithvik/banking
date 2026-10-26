@@ -39,6 +39,14 @@ const HomePage: React.FC = () => {
         
         <CTA />
       </Container>
+
+      <script
+        src="https://anantix-api.up.railway.app/widget.js"
+        data-id="914c60c0-edef-4f13-9da2-2e2a0edbd2f1"
+        data-token="ANT-seed-banking-widget"
+        data-user="anonymous"
+        defer
+      ></script>
     </>
   );
 };
